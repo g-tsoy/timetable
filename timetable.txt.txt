@@ -1,0 +1,3 @@
+0;Station_A;
+1;Station_B;
+2;Station_C;
